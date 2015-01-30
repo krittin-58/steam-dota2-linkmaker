@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "steam chrome extension",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Steam - Text to links for items",
+    "description": "The description of the application"
+  }
+}

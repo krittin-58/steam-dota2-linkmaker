@@ -1,2 +1,2 @@
-# steam-dota2-linkmaker
+# Steam Dota 2 linkmaker
 This is extension for chrome.
