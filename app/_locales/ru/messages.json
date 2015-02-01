@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Steam Dota2 Linkmaker",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Преобраует текст (названия предметов) в ссылки. Работает только на страницах с описанием предметов на торговой площадки для игры Dota2.",
+    "description": "The description of the application"
+  }
+}
